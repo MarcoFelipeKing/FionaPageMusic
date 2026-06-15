@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fionapagemusic.co.uk/sitemap.xml
